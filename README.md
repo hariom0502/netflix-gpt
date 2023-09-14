@@ -34,6 +34,10 @@
 - bUild Movie Card
 - Made the browse page looks better
 - Created custom hooks for movies
+- GPT search page
+- GPT search bar
+- Multi language feature in our app
+
 
 
 #Features
